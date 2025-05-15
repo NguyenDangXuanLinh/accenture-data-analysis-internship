@@ -1,5 +1,6 @@
 # Accenture-Buzz-Social Content Analysis
-
+<img width="1000%" align="middle" 
+    src="images/Accenture cert.pdf">
 ## Business Problems:
 
 - Social Buzz,the client has experienced rapid growth in recent years, resulting in a significant increase in their operations. However, they lack the necessary internal resources to manage and handle this scale effectively.
